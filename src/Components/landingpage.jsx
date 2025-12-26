@@ -79,9 +79,9 @@ export default function HeroSection() {
           <p className="text-lg md:text-xl text-gray-300 mb-4">Web Designer / Java Developer</p>
           <p className="max-w-2xl text-gray-400 mb-6 text-sm md:text-base">I am a passionate web designer and Java developer with a keen eye for detail and a love for creating beautiful, functional websites.</p>
           <div className="flex space-x-6 mb-8">
-            <a href="#" className="text-gray-300 hover:text-white text-2xl transition-transform transform hover:scale-125"><FaGithub /></a>
-            <a href="#" className="text-gray-300 hover:text-blue-400 text-2xl transition-transform transform hover:scale-125"><FaLinkedin /></a>
-            <a href="mailto:example@email.com" className="text-gray-300 hover:text-red-400 text-2xl transition-transform transform hover:scale-125"><FaEnvelope /></a>
+            <a href="https://github.com/chandinireddymasu" className="text-gray-300 hover:text-white text-2xl transition-transform transform hover:scale-125"><FaGithub /></a>
+            <a href="https://www.linkedin.com/in/reddymasu-chandini-63661b23b/" className="text-gray-300 hover:text-blue-400 text-2xl transition-transform transform hover:scale-125"><FaLinkedin /></a>
+            <a href="chandinireddymasu02@gmail.com" className="text-gray-300 hover:text-red-400 text-2xl transition-transform transform hover:scale-125"><FaEnvelope /></a>
           </div>
           <div className="flex flex-col items-center space-y-4 w-full">
             <div className="flex space-x-4 flex-wrap justify-center">
@@ -537,8 +537,8 @@ export default function HeroSection() {
               Connect
             </h3>
             <div className="flex space-x-4 mt-2">
-              <a href="#" className="bg-gray-800 hover:bg-blue-600 p-3 rounded-lg text-3xl transition" aria-label="GitHub" style={{ color: "#60a5fa" }}><FaGithub /></a>
-              <a href="#" className="bg-gray-800 hover:bg-blue-600 p-3 rounded-lg text-3xl transition" aria-label="LinkedIn" style={{ color: "#60a5fa" }}><FaLinkedin /></a>
+              <a href="https://github.com/chandinireddymasu" className="bg-gray-800 hover:bg-blue-600 p-3 rounded-lg text-3xl transition" aria-label="GitHub" style={{ color: "#60a5fa" }}><FaGithub /></a>
+              <a href="https://www.linkedin.com/in/reddymasu-chandini-63661b23b/" className="bg-gray-800 hover:bg-blue-600 p-3 rounded-lg text-3xl transition" aria-label="LinkedIn" style={{ color: "#60a5fa" }}><FaLinkedin /></a>
               <a href="mailto:chandinireddymasu02@gmail.com" className="bg-gray-800 hover:bg-blue-600 p-3 rounded-lg text-3xl transition" aria-label="Email" style={{ color: "#60a5fa" }}><FaEnvelope /></a>
             </div>
           </div>
